@@ -1,4 +1,4 @@
-# Hi, I'm [Tu Nombre] 👋  
+# Hi, I'm Óscar García González 👋  
 Welcome to my GitHub profile!
 
 # About me  
