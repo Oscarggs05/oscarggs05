@@ -1,4 +1,4 @@
-# Hi there, I'm Óscar García González 👋
+# Hi there, I'm Óscar García González 
 
 Welcome to my GitHub profile! I am a **Computer Engineering Student** at the University of La Laguna (ULL) based in Tenerife, Canary Islands, Spain. 
 
@@ -6,17 +6,17 @@ I love building full-stack web and mobile applications, optimizing performance, 
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-- 🎓 **Education:** Pursuing a Bachelor's Degree in Computer Engineering at **ULL**.
-- 🛠️ **Current Projects:** - **DermaTracker**: A smart mobile app built with **Expo (React Native)** and **Supabase** for tracking dermatological changes.
+-  **Education:** Pursuing a Bachelor's Degree in Computer Engineering at **ULL**.
+-  **Current Projects:** - **DermaTracker**: A smart mobile app built with **Expo (React Native)** and **Supabase** for tracking dermatological changes.
   - Performance tuning, backend optimizations, and secure network auditing.
-- ⚙️ **Core Ecosystem:** Proficient in **C# .NET Minimal APIs**, modern backend design, and frontend styling with **Bootstrap / Tailwind**.
-- 🔒 **Interests:** Systems optimization (undervolting, memory tuning), network analysis (**Kali Linux**, `nmap`, traffic security), and automated planning (**PDDL**).
+-  **Core Ecosystem:** Proficient in **C# .NET Minimal APIs**, modern backend design, and frontend styling with **Bootstrap / Tailwind**.
+-  **Interests:** Systems optimization (undervolting, memory tuning), network analysis (**Kali Linux**, `nmap`, traffic security), and automated planning (**PDDL**).
 
 ---
 
-### 💻 Technologies & Tools
+### Technologies & Tools
 
 #### **Languages**
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -37,16 +37,7 @@ I love building full-stack web and mobile applications, optimizing performance, 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=oscargg05&show_icons=true&theme=tokyonight&count_private=true" alt="Óscar's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscargg05&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
-</p>
-
----
-
-### 🤝 Connect with Me
+### Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://oscargarciagonzalez.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oscargg003@gmail.com)
