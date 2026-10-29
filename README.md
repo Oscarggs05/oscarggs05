@@ -50,7 +50,7 @@ Ingeniero Informático por la **Universidad de La Laguna (ULL)**, desde Tenerife
     </td>
     <td width="33%" valign="top">
       <h3 align="center">📱 Móvil y escritorio</h3>
-      <p align="center">Apps multiplataforma con <b>React Native + Expo</b> y <b>Supabase</b>: autenticación, RLS y diseño nativo cuidado.</p>
+      <p align="center">Apps multiplataforma con <b>React Native + Expo</b> y <b>Supabase</b>, y apps web instalables (<b>PWA</b>) que aprovechan la GPU del dispositivo.</p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">🤖 IA y datos</h3>
@@ -64,6 +64,21 @@ Ingeniero Informático por la **Universidad de La Laguna (ULL)**, desde Tenerife
 ## 🚀 Proyectos destacados
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://i-cut.vercel.app"><img src="./assets/i-cut.webp" alt="i-cut: editor de vídeo para iPhone" width="100%" /></a>
+      <h3>🎬 i-cut · Editor de vídeo para iPhone</h3>
+      <p>Editor de vídeo gratuito que se instala desde Safari como app (PWA) y funciona sin conexión. Todo se edita y se exporta dentro del iPhone, hasta 4K: composición por GPU con <b>WebGL2</b>, codificación por hardware con <b>WebCodecs</b> y <b>subtítulos automáticos con IA</b> (Whisper en el propio dispositivo). Incluye línea de tiempo táctil, keyframes, curvas de velocidad, estabilización, 15 filtros, 13 efectos, 12 transiciones y eliminación automática de silencios y muletillas. Sin cuenta, sin marcas de agua y sin subir nada a internet.</p>
+      <p><a href="https://i-cut.vercel.app"><b>▶️ Probar la app</b></a> · <a href="https://github.com/Oscarggs05/i-cut"><b>📂 Ver el código</b></a></p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/WebGL2-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL2" />
+      <img src="https://img.shields.io/badge/WebCodecs-1f6feb?style=flat-square" alt="WebCodecs" />
+      <img src="https://img.shields.io/badge/Transformers.js-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers.js" />
+      <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <img src="./assets/dermatracker.webp" alt="DermaTracker" width="100%" />
@@ -148,6 +163,8 @@ Ingeniero Informático por la **Universidad de La Laguna (ULL)**, desde Tenerife
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL2-990000?style=for-the-badge&logo=webgl&logoColor=white)
 
 **🤖 IA y datos**
 
